@@ -27,6 +27,7 @@ Il progetto è stato realizzato in **Power BI** con finalità di analisi esplora
 - Numero di publisher
 - Numero di generi
 - Numero di console analizzate
+<img width="1093" height="380" alt="KPI" src="https://github.com/user-attachments/assets/58abc4ef-60a9-429b-bc1d-58e9fe9dcda6" />
 
 ---
 
@@ -34,6 +35,10 @@ Il progetto è stato realizzato in **Power BI** con finalità di analisi esplora
 - Confronto delle vendite per titolo nei diversi mercati
 - Analisi delle preferenze regionali
 - Distribuzione dei titoli per genere
+<img width="1163" height="632" alt="confronti tra mercati " src="https://github.com/user-attachments/assets/90ebd992-df0d-4276-bce0-4d55c227e3cf" />
+<img width="1143" height="436" alt="vendite per genere " src="https://github.com/user-attachments/assets/bb910667-c443-4247-9664-218960d63d43" />
+
+
 
 ---
 
